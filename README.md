@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryansilva2004&show_icons=true&locale=en&layout=compact" alt="ryansilva2004" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryansilva2004&show_icons=true&locale=en" alt="ryansilva2004" /></p>
 
-### ✍️ Random Dev Quote
+<h3 align="left">✍️ Random Dev Quote:</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
