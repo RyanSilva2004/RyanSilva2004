@@ -6,7 +6,7 @@
 <h3 align="center">⚡ Fun fact: I can code without coffee ☕️</h3>
 
 - 🌱 I’m currently learning **everything 🤣**
-- ⚽ I'm a huge football fan, especially of Real Madrid and Cristiano Ronaldo!
+- ⚽ I'm a huge football fan, especially of Real Madrid and Cristiano Ronaldo🐐
 - 📫 How to reach me **ryansilvamic2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
