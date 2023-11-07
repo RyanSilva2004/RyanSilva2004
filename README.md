@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="90%" height="250px" src="https://media1.giphy.com/media/3oKIP53Yk7iUZBXzzy/giphy.gif?cid=ecf05e47iwv1bognezuevziu2x5v93y32a8nc6r048aps172&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img width="90%" height="250px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHE5ZTI3dG84eDk2amhmeWdyN2N6anh2dzhsdXYweWNpd2h1bDk5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ryan Silva</h1>
