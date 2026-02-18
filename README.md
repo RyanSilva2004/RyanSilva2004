@@ -3,8 +3,6 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Ryan Silva</h1>
-
 ### About Me
 I’m a **BSc (Hons) Computing undergraduate (CS+SE)** with a growing interest in **core & embedded software engineering** — especially how computers actually work under the hood.
 
@@ -24,11 +22,4 @@ I’m early in the journey, but intentional about what I learn and why.
 
 ---
 
-### 🛠️ Core Skills
-**Languages**
-- C++ 
-- Java
-
-
----
 > *Learning Basics slowly*
