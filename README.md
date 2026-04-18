@@ -4,22 +4,12 @@
 </p>
 
 ### About Me
-I’m a **BSc (Hons) Computing undergraduate (CS+SE)** with a growing interest in **core & embedded software engineering** — especially how computers actually work under the hood.
+I’m a **BSc Computing** undergraduate (CS+SE), intrested in **low-latency software engineering** & figuering out how everything just works under the hood.
 
-Right now, I’m focused on building **strong fundamentals** that matter for (still very much a newbie if there ever was a one : )
-- high-performance systems (C++ / Java)
-- core low-level / embedded software (C / C++)
-
-I’m early in the journey, but intentional about what I learn and why.
-
----
-
-**Foundations I’m Actively Working On**
+Right now, I am working on 
+- C++ mainly + Java
 - Data Structures & Algorithms  
-- Memory & performance basics  
-- Linux & command-line workflows  
-- How software interacts with hardware (at a beginner level)
+- Memory & performance   
+- Hardware level interaction (hopefully)
 
----
-
-> *Learning Basics slowly*
+> *"What I can't create, I don't understand"* ~  Richard Feynman + My Dumbass
