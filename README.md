@@ -7,7 +7,7 @@
 I’m a **BSc (Hons) Computing undergraduate (CS+SE)** with a growing interest in **core & embedded software engineering** — especially how computers actually work under the hood.
 
 Right now, I’m focused on building **strong fundamentals** that matter for (still very much a newbie if there ever was a one : )
-- high-performance systems (C++)
+- high-performance systems (C++ / Java)
 - core low-level / embedded software (C / C++)
 
 I’m early in the journey, but intentional about what I learn and why.
