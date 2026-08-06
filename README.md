@@ -3,13 +3,12 @@
 
 </p>
 
-### About Me
-I’m a **BSc Computing** undergraduate (CS+SE), intrested in **low-latency software engineering** & figuering out how everything just works under the hood.
+a Computing undergraduate, interested in low-latency software engineering & figuring out how stuff just works under the hood.
 
 Right now, I am working on 
-- C++ mainly + Java
+- C,C++ & Java
 - Data Structures & Algorithms  
 - Memory & performance   
-- Hardware level interaction (hopefully)
+- Hardware level interaction (to do next)
 
-> *"What I can't create, I don't understand"* ~  Richard Feynman + My Dumbass
+*"What I can't create, I don't understand"* ~  Richard Feynman 
